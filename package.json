@@ -1,0 +1,19 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trustgrid/prettier-config.git"
+  },
+  "author": "terry heath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trustgrid/prettier-config/issues"
+  },
+  "homepage": "https://github.com/trustgrid/prettier-config#readme"
+}
